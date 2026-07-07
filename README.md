@@ -38,3 +38,11 @@ During the showcase of our mechanism, the gear reducer worked very well. The bal
 
 
 ## What I learnt
+- Design for assembly requires alot more thinking ahead than I initially expected. Alot of materials and time could be saved if we had thought abit more before manufacturing.
+- I learnt the inventor simulation environment. I did not learn in detail how to simulate properly, but I was exposed to the new environment and know what to look out for.
+- How to create effective assembly instructions, and how images and arrows can be more effective than just words.
+- How to communicate with a partner especially when multiple parts are needed and need to work together.
+
+
+
+
