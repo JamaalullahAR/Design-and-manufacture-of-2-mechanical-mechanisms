@@ -35,7 +35,13 @@ The assembly instructions implemented drawings of each sub assembly of the whole
 During the showcase of our mechanism, the gear reducer worked very well. The ball also managed to move acorss the box in approximately 5 seconds. However, a small part of the cam follower mechanism unfortunately was not tight enough and kept falling out. This made it hard to continuously test our mechanisms over as we had to keep reassembling that small part that kept falling out. This was unfortunately due to the fact that the part was too tiny for 3D printing, which caused an ineffective print. We were quite dissappointed in that particular part, as the rest of the mechanism worked really well, and we managed to get a few full runs as well. We managed to score a reasonably high mark, but it could have been much better.
 
 ## Project Images
+<p align="center">
+  <img src="" width="800">
+</p>
 
+<p align="center">
+  <i>Figure 1: </i>
+</p>
 
 ## What I learnt
 - Design for assembly requires alot more thinking ahead than I initially expected. Alot of materials and time could be saved if we had thought abit more before manufacturing.
