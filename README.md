@@ -50,5 +50,12 @@ During the showcase of our mechanism, the gear reducer worked very well. The bal
 - How to communicate with a partner especially when multiple parts are needed and need to work together.
 
 
+<!-- <p align="center">
+  <img src="" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 1: </i>
+</p> --!>
 
 
